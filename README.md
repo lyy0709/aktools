@@ -23,6 +23,6 @@
 
 ![设置后](https://github.com/user-attachments/assets/25926c7e-363c-43cc-806b-1346cb7946ae)
 
-这里可以看到已经解锁了
+这里可以看到已经解锁了,有什么不懂的建议问AI（（（（（（
 
 
