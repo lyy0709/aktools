@@ -1,3 +1,5 @@
+买鸡就到[AkileCloud](https://akilecloud.com)
+
 ### 测试连通性脚本
 ```wget -qO- https://raw.githubusercontent.com/akile-network/aktools/refs/heads/main/akdns.sh |bash```
 
